@@ -1,0 +1,15 @@
+This repository provides a comprehensive guide on using the tar command in Linux. The guide covers various aspects of tar, including archiving, compressing, extracting, and managing files and directories. It includes practical examples and explanations to help users effectively utilize the tar command.
+|-- README.md
+|-- docs
+|   |-- archiving.md
+|   |-- compressing.md
+|   |-- extracting.md
+|   |-- managing.md
+|   `-- examples
+|       |-- example1.md
+|       |-- example2.md
+|       |-- ...
+|-- scripts
+|   |-- tar_backup.sh
+|   `-- tar_extract.sh
+`-- LICENSE
